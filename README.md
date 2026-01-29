@@ -1,3 +1,3 @@
-https://issnowjp.github.io/issnow-Launcher.github.io/
+https://issnowjp.github.io/issnow-Launcher/
 
 Play Eaglercraft-WASM-GC :D
